@@ -4,7 +4,7 @@
 # 
 
                                          | Designers | Implemented | GitHub Links |
-| ----- | ----- | ----- |
+
                                          | Esoteric Nonsense boy |       ❌ No | [https\://tinyurl.com/Teasqimprovisation](https://tinyurl.com/Teasqimprovisation)  |
 
 ## **\#Overview**
